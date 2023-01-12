@@ -1,0 +1,13 @@
+1) Installation of Optional Components
+
+ In some versions certain components are included separately to the OS.
+ To install these optional components, connect the netBook to your PC in
+ the usual manner, extract each SIS file from the zip file (for the exact
+ procedure please see the instructions with your zip application).
+ Open the SIS file to automatically load the application onto the netBook.
+ Should you have problems with the above, verify the following:
+  The netBook is turned on.
+  PsiWin is installed correctly.
+  The netBook is correctly connected to the PC.
+ Alternatively, the SIS files may be copied directly to the netBook
+ (using PsiWin) and opened from there.

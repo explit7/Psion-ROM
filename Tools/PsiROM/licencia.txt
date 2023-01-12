@@ -1,0 +1,35 @@
+                       Contrato de licencia 
+
+PsiROM y PsiROMx con todos sus ficheros asociados (el "Software"), son 
+propiedad de Juan J. Villacorta (el "Autor"). El Software es propiedad 
+intelectual del autor y está protegido por las leyes de derechos de autor 
+españolas y por los correspondientes tratados internacionales. 
+Este contrato de licencia no es una venta del Software. Este contrato de 
+licencia proporciona únicamente permiso para el uso del Software como se 
+especifica expresamente en este contrato de licencia.
+
+Usted puede utilizar el Software en cualquier ordenador o PDA para su 
+propósito predeterminado, de forma gratuita. La utilización de los 
+ficheros de imagen ROM generados con el Software está limitada a uso 
+personal. No está permitido su explotación comercial, incluyendo su venta 
+y alquiler. Puede redistribuir el Software y los ficheros de imagen ROM 
+a través de cualquier medio siempre y cuando no modifiques ninguno de los 
+ficheros incluidos y no cobre nada por ello (excepto un coste "razonable" en 
+concepto de tasas de empaquetado y distribución).
+
+Usted NO puede: (a) hacer ingeniería inversa de ningún fichero incluido en el 
+Software; (b) modificar o adaptar el Software o cualquier porción incluida en 
+el; (c) copiar o usar cualquier porción del Software con propósito comercial; 
+(d) vender, ceder o alquilar tus derechos con el Software; (e) eliminar o 
+modificar cualquier logotipo, copyright o avisos de propiedad incluidos o 
+asociados con el Software.
+
+PsiROM y PsiROMx se proporcionan "tal cual" y sin garantía de ningún tipo. El 
+Autor no se hace responsable de ningún daño, directo o indirecto, resultante 
+de su uso o de su imposibilidad de uso.
+
+Al descargar y usar el Software o una parte del mismo, usted reconoce haber 
+leído, entendido y aceptado todos los términos y condiciones de este contrato.
+Si usted no está de acuerdo con todos los términos u condiciones de este 
+contrato no puede descargarlo ni utilizarlo y debe destruir todas las copias 
+que posea.

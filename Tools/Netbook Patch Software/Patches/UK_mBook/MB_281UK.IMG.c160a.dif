@@ -1,0 +1,60 @@
+# Cumulative patch file for Psion mBook (Malaysian netBook) OS image NB_281UK.IMG
+# Version: c1.60a
+# All patches made by: Poke^Patisoners 2003-2005
+
+# Visible Z: drive (RomDrive) in shell drive selection listbox
+# Value of the enum const EDriveY changed to the value EDriveZ
+# (0x5031e3c0 - 0x50345f64) --> [-R---]     162724 /System/Apps/Shell/Shell.app
+0033E654: 19 1A
+
+# Console selection bugfix.
+# (0x501ec250 - 0x502685d4) --> [-R---]     508804 /System/Libs/Eikon.dll
+00201AD5: 30 50 
+
+# Stretch file icons in Color256 Mode, Not only EGray4 mode
+# (0x50150570 - 0x501579dc) --> [-R---]      29804 /System/Libs/ApGrfx.dll 
+001542D4: 02 06
+
+# Color16 console support, not Gray16 but Color16!!
+# (0x501ec250 - 0x502685d4) --> [-R---]     508804 /System/Libs/Eikon.dll
+00202E2C: A2 BD
+00202FB4: 40 5B
+00202FD8: 37 52
+
+# Netbook OPL Toolbar.opo Main battery icon status, bugfix
+# (0x50b546fc - 0x50b56c8c) --> [-----]       9616 /System/OPL/Toolbar.opo
+00B56B14: 49 47
+00B56B7C: 45 43
+# Netbook OPL source of Toolbar Main battery icon status, bugfix
+# (0x50b602bc - 0x50b65416) --> [-----]      20826 /System/OPL/Toolbar
+# < const KEikonBatteryMask%=73
+# > const KEikonBatteryMask%=71
+00B609FF: 33 31
+# < const KEikonBatteryAbsent%=69
+# > const KEikonBatteryAbsent%=67
+00B60A1D: 39 37
+
+# Netbook OPL Toolbar.opo backup battery status, bugfix
+# (0x50b546fc - 0x50b56c8c) --> [-----]       9616 /System/OPL/Toolbar.opo
+00B56AD0: 00 28
+00B56AD1: 2A 00
+00B56AD3: 00 28
+00B56AD4: 2C 00
+# Netbook OPL source of Toolbar backup battery status, bugfix
+# (0x50b602bc - 0x50b65416) --> [-----]      20826 /System/OPL/Toolbar
+# <		gColorBackground 255,green%,blue%
+# >		gColorBackground 255,0,0         
+00B6527F: 67 30
+00B65280: 72 2C
+00B65281: 65 30
+00B65282: 65 20
+00B65283: 6E 20
+00B65284: 25 20
+00B65285: 2C 20
+00B65286: 62 20
+00B65287: 6C 20
+00B65288: 75 20
+00B65289: 65 20
+00B6528A: 25 20
+
+# End of patch file
