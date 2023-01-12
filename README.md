@@ -1,4 +1,6 @@
-# Psion-ROM
+This repository contains official ROM files for old Psion Devices.
+All the files could be downloaded for free from the official Psion / Psion Teklogix Website in the past.
+Some of this ROM files are upgraded (patched) to solve some bugs or add functionality.
 
 Patched ROMs for Psion 5mx Pro (UK, GER)
 Patched with 2 Additional Apps from Ericsson MC218 (MyPhone + PostCard)
