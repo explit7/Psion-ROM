@@ -8,7 +8,7 @@ Patched with 2 Additional Apps from Ericsson MC218 (MyPhone + PostCard)
 Patched ROMs for Psion netBook (UK, DE, FR, SP)
 Patched with additional Apps and components
 
-Dump ROM of Ericcson MC218 (UK)
+Dumped ROM of Ericcson MC218 (UK)
 
 ROM Update for Series 7 (UK, US)
 
