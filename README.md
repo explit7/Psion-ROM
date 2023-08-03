@@ -12,4 +12,6 @@ Dumped ROM of Ericcson MC218 (UK)
 
 ROM Update for Series 7 (UK, US)
 
+Revo Firmware Dump (DE)
+
 Tools for Patching Psion ROMs and additional components.
