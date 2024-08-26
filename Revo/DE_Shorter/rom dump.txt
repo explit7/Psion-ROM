@@ -1,0 +1,34 @@
+This is the rom dump of my Psion Revo (German). The original rom is 8MB, so I had to dump it as 2x 4MB due to only 8MB RAM.
+
+PsiROMx shows dump defaults:
+
+Start address 
+50000000
+Size (KB) 8192
+End address 
+50800000
+
+But the German Psion Revo was claimed to have 16MB. So I tried to dump it in 4MB chunks.
+
+Size (KB) 4096
+
+Start address 
+50000000
+50400000
+50800000 (fail)
+50C00000 (fail)
+
+sys$rom1.bin = 50000000 to 50400000
+sys$rom2.bin = 50400000 to 50800000
+
+There should be 2 more of them, but it fails.
+
+Bug??: Dump from 50800000 to 50C00000 produces a 0 bytes file but wastes 4MB as a memory leak. Deleting the file does not bring memory back. Apparently it corrupts the RAM file system. Trying to dump only 50800000 to 50A00000 (2048KB) produces the same 0KB file with memory leak. The only way to get memory back is doing a hard reset (i.e. delete entire RAM disk memory).
+
+It turned out that according to the menu "Information/Computer", the model indeed has only each 8MB ROM and 8MB RAM, hence the rom dump likely caused a memory leak. So I merged both 4MB files with HxD back into 8MB, which looks correct.
+
+
+According to wxHexEditor the actual rom contents seems to end at 740C3Fh, so I later have removed here the "FF" section at the end of the file to shorten it to about 7.3MB. I don't know if this will be sufficient to reinstall it. If not, it may be necessary to split it in 2 parts to install them separately with PsiROM at their original addresses..
+
+CAUTION: I haven't tried if it can be reinstalled this way on an 8MB Revo, or if overwriting only one half of the rom will brick it without chance of replacing the 2nd halve.
+
