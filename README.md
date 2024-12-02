@@ -4,6 +4,7 @@ Some of this ROM files are upgraded (patched) to solve some bugs or add function
 
 Contents:
 
+- ROMs for the Psion Series 3a and variants ([details](#Series3a))
 - ROMs for Psion 5mx Pro, patched with 2 Additional Apps from Ericsson MC218 (MyPhone + PostCard) ([UK](5mxPro/UK/), [DE](5mxPro/DE/))
 - Original ROM for Psion 5mx Pro ([DE](5mxPro/DE_orig/))
 - ROMs for Psion netBook, patched with additional Apps and components([UK](netBook/UK/), [DE](netBook/DE), [FR](netBook/FR/), [SP](netBook/SP/))
@@ -13,3 +14,18 @@ Contents:
 - Dumped ROM for Psion 5mx ([UK](5mx/UK/))
 - Dumped ROM for Psion Series 5 ([UK](Series5/UK/))
 - [Tools](Tools/) for Patching Psion ROMs and additional components.
+
+---
+
+## Series 3a
+
+| Device               | RAM  | Version | Language      | Filename                                          |
+| -------------------- | ---- | ------- | ------------- | ------------------------------------------------- |
+| Psion Series 3a      | 1MB  | 3.22f   | English       | [s3a_v3.22f_eng.bin](Series3a/s3a_v3.22f_eng.bin) |
+| Acorn Pocket Book II | 1MB  | 1.30f   | English (ACN) | [pb2_v1.30f_acn.bin](Series3a/pb2_v1.30f_acn.bin) |
+| Psion Series 3a      | 2MB  | 3.40f   | English       | [s3a_v3.40f_eng.bin](Series3a/s3a_v3.40f_eng.bin) |
+| Psion Series 3a      | 2MB  | 3.40f   | Italian       | [s3a_v3.40f_ita.bin](Series3a/s3a_v3.40f_ita.bin) |
+| Psion Series 3a      | 2MB  | 3.40f   | USA           | [s3a_v3.40f_usa.bin](Series3a/s3a_v3.40f_usa.bin) |
+| Psion Series 3a      | 2MB  | 3.41f   | German        | [s3a_v3.41f_deu.bin](Series3a/s3a_v3.41f_deu.bin) |
+| Psion Series 3a      | 2MB  | 3.43f   | Russian       | [s3a_v3.43f_rus.bin](Series3a/s3a_v3.43f_rus.bin) |
+
