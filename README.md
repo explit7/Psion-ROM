@@ -4,7 +4,7 @@ Some of this ROM files are upgraded (patched) to solve some bugs or add function
 
 Contents:
 
-- ROMs for the Psion Series 3a and variants ([details](#Series3a))
+- ROMs for the Psion Series 3a and variants ([details](#series-3a))
 - ROMs for Psion 5mx Pro, patched with 2 Additional Apps from Ericsson MC218 (MyPhone + PostCard) ([UK](5mxPro/UK/), [DE](5mxPro/DE/))
 - Original ROM for Psion 5mx Pro ([DE](5mxPro/DE_orig/))
 - ROMs for Psion netBook, patched with additional Apps and components([UK](netBook/UK/), [DE](netBook/DE), [FR](netBook/FR/), [SP](netBook/SP/))
