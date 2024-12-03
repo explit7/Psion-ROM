@@ -4,7 +4,8 @@ Some of this ROM files are upgraded (patched) to solve some bugs or add function
 
 Contents:
 
-- ROMs for the Psion Series 3a and variants ([details](#series-3a))
+- [Psion Series 3a and variants](#psion-series-3a-and-variants)
+- [Psion Siena](#psion-siena)
 - ROMs for Psion 5mx Pro, patched with 2 Additional Apps from Ericsson MC218 (MyPhone + PostCard) ([UK](5mxPro/UK/), [DE](5mxPro/DE/))
 - Original ROM for Psion 5mx Pro ([DE](5mxPro/DE_orig/))
 - ROMs for Psion netBook, patched with additional Apps and components([UK](netBook/UK/), [DE](netBook/DE), [FR](netBook/FR/), [SP](netBook/SP/))
@@ -17,7 +18,7 @@ Contents:
 
 ---
 
-## Series 3a
+## Psion Series 3a and Variants
 
 | Device                     | Version | Language         | Filename                                          | MD5 Checksum                       |
 | -------------------------- | ------- | ---------------- | ------------------------------------------------- | ---------------------------------- |
@@ -29,7 +30,7 @@ Contents:
 | Psion Series 3a (2MB)      | 3.41f   | German           | [s3a_v3.41f_deu.bin](Series3a/s3a_v3.41f_deu.bin) | `45c8db03c357e5784158f966c5de7018` |
 | Psion Series 3a (2MB)      | 3.43f   | Russian          | [s3a_v3.43f_rus.bin](Series3a/s3a_v3.43f_rus.bin) | `4ebca4c28c3cc5317206e4103a1b702a` |
 
-## Siena
+## Psion Siena
 
 | Device      | Version | Language | Filename                                 | MD5 Checksum                       |
 | ----------- | ------- | -------- | ---------------------------------------- | ---------------------------------- |
