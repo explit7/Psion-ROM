@@ -19,13 +19,19 @@ Contents:
 
 ## Series 3a
 
-| Device               | RAM  | Version | Language      | Filename                                          |
-| -------------------- | ---- | ------- | ------------- | ------------------------------------------------- |
-| Psion Series 3a      | 1MB  | 3.22f   | English       | [s3a_v3.22f_eng.bin](Series3a/s3a_v3.22f_eng.bin) |
-| Acorn Pocket Book II | 1MB  | 1.30f   | English (ACN) | [pb2_v1.30f_acn.bin](Series3a/pb2_v1.30f_acn.bin) |
-| Psion Series 3a      | 2MB  | 3.40f   | English       | [s3a_v3.40f_eng.bin](Series3a/s3a_v3.40f_eng.bin) |
-| Psion Series 3a      | 2MB  | 3.40f   | Italian       | [s3a_v3.40f_ita.bin](Series3a/s3a_v3.40f_ita.bin) |
-| Psion Series 3a      | 2MB  | 3.40f   | USA           | [s3a_v3.40f_usa.bin](Series3a/s3a_v3.40f_usa.bin) |
-| Psion Series 3a      | 2MB  | 3.41f   | German        | [s3a_v3.41f_deu.bin](Series3a/s3a_v3.41f_deu.bin) |
-| Psion Series 3a      | 2MB  | 3.43f   | Russian       | [s3a_v3.43f_rus.bin](Series3a/s3a_v3.43f_rus.bin) |
+| Device                     | Version | Language         | Filename                                          |
+| -------------------------- | ------- | ---------------- | ------------------------------------------------- |
+| Psion Series 3a (1MB)      | 3.22f   | English          | [s3a_v3.22f_eng.bin](Series3a/s3a_v3.22f_eng.bin) |
+| Acorn Pocket Book II (1MB) | 1.30f   | English          | [pb2_v1.30f_acn.bin](Series3a/pb2_v1.30f_acn.bin) |
+| Psion Series 3a (2MB)      | 3.40f   | English          | [s3a_v3.40f_eng.bin](Series3a/s3a_v3.40f_eng.bin) |
+| Psion Series 3a (2MB)      | 3.40f   | Italian          | [s3a_v3.40f_ita.bin](Series3a/s3a_v3.40f_ita.bin) |
+| Psion Series 3a (2MB)      | 3.40f   | American English | [s3a_v3.40f_usa.bin](Series3a/s3a_v3.40f_usa.bin) |
+| Psion Series 3a (2MB)      | 3.41f   | German           | [s3a_v3.41f_deu.bin](Series3a/s3a_v3.41f_deu.bin) |
+| Psion Series 3a (2MB)      | 3.43f   | Russian          | [s3a_v3.43f_rus.bin](Series3a/s3a_v3.43f_rus.bin) |
+
+## Siena
+
+| Device      | Version | Language | Filename                                 | MD5 Checksum                       |
+| ----------- | ------- | -------- | ---------------------------------------- | ---------------------------------- |
+| Psion Siena | 4.20f   | English  | [vine_v4.20f.bin](Siena/vine_v4.20f.bin) | `242e80fdbf9b353a05f6ff4d1db1c769` |
 
