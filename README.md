@@ -8,6 +8,8 @@ Contents:
 - [Psion Siena](#psion-siena)
 - [Psion Series 3c](#psion-series-3c)
 - [Psion Series 3mx](#psion-series-3mx)
+- [Psion Workabout](#psion-workabout)
+- [Psion Workabout MX](#psion-workabout-mx)
 - ROMs for Psion 5mx Pro, patched with 2 Additional Apps from Ericsson MC218 (MyPhone + PostCard) ([UK](5mxPro/UK/), [DE](5mxPro/DE/))
 - Original ROM for Psion 5mx Pro ([DE](5mxPro/DE_orig/))
 - ROMs for Psion netBook, patched with additional Apps and components([UK](netBook/UK/), [DE](netBook/DE), [FR](netBook/FR/), [SP](netBook/SP/))
@@ -51,3 +53,16 @@ Contents:
 | Psion Series 3mx | 4.08f          | 6.16f        | English  | [maple_v6.16f_uk.bin](Series3mx/maple_v6.16f_uk.bin)   | `64572cc3522447179d1e6f3b8fb45360` |
 | Psion Series 3mx |                | 6.20f        | French   | [maple_v6.20f_fre.bin](Series3mx/maple_v6.20f_fre.bin) | `1b367e2fb862545cf420ff74a7f85ea7` |
 
+## Psion Workabout 
+
+| Device          | EPOC16 Version | ROM  Version | Language | Filename                                 | MD5 Checksum                       |
+| --------------- | -------------- | ------------ | -------- | ---------------------------------------- | ---------------------------------- |
+| Psion Workabout | 3.56f          | 0.24b        | English  | [w1_v0.24b.bin](Workabout/w1_v0.24b.bin) | `1afac14fe87e19e7d29d494177dc58d9` |
+| Psion Workabout | 3.56f          | 1.00f        | English  | [w1_v1.00f.bin](Workabout/w1_v1.00f.bin) | `87c84a27bc71df5e19ac1208735a7a1e` |
+| Psion Workabout | 3.96f          | 2.40f        | English  | [w1_v2.40f.bin](Workabout/w1_v2.40f.bin) | `10b9a0c9174aec0316571827dce42013` |
+
+## Psion Workabout MX
+
+| Device             | EPOC16 Version | ROM  Version | Language | Filename                                       | MD5 Checksum                       |
+| ------------------ | -------------- | ------------ | -------- | ---------------------------------------------- | ---------------------------------- |
+| Psion Workabout MX | 4.31f          | 7.20f        | English  | [w2mx_v7.20f.bin](WorkaboutMX/w2mx_v7.20f.bin) | `d5e5c2aa32f9888e7fec8d2214f1547e` |
