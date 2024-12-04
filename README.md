@@ -4,7 +4,8 @@ Some of this ROM files are upgraded (patched) to solve some bugs or add function
 
 Contents:
 
-- ROMs for the Psion Series 3a and variants ([details](#series-3a))
+- [Psion Series 3a and variants](#psion-series-3a-and-variants)
+- [Psion Siena](#psion-siena)
 - ROMs for Psion 5mx Pro, patched with 2 Additional Apps from Ericsson MC218 (MyPhone + PostCard) ([UK](5mxPro/UK/), [DE](5mxPro/DE/))
 - Original ROM for Psion 5mx Pro ([DE](5mxPro/DE_orig/))
 - ROMs for Psion netBook, patched with additional Apps and components([UK](netBook/UK/), [DE](netBook/DE), [FR](netBook/FR/), [SP](netBook/SP/))
@@ -17,15 +18,21 @@ Contents:
 
 ---
 
-## Series 3a
+## Psion Series 3a and Variants
 
-| Device               | RAM  | Version | Language      | Filename                                          |
-| -------------------- | ---- | ------- | ------------- | ------------------------------------------------- |
-| Psion Series 3a      | 1MB  | 3.22f   | English       | [s3a_v3.22f_eng.bin](Series3a/s3a_v3.22f_eng.bin) |
-| Acorn Pocket Book II | 1MB  | 1.30f   | English (ACN) | [pb2_v1.30f_acn.bin](Series3a/pb2_v1.30f_acn.bin) |
-| Psion Series 3a      | 2MB  | 3.40f   | English       | [s3a_v3.40f_eng.bin](Series3a/s3a_v3.40f_eng.bin) |
-| Psion Series 3a      | 2MB  | 3.40f   | Italian       | [s3a_v3.40f_ita.bin](Series3a/s3a_v3.40f_ita.bin) |
-| Psion Series 3a      | 2MB  | 3.40f   | USA           | [s3a_v3.40f_usa.bin](Series3a/s3a_v3.40f_usa.bin) |
-| Psion Series 3a      | 2MB  | 3.41f   | German        | [s3a_v3.41f_deu.bin](Series3a/s3a_v3.41f_deu.bin) |
-| Psion Series 3a      | 2MB  | 3.43f   | Russian       | [s3a_v3.43f_rus.bin](Series3a/s3a_v3.43f_rus.bin) |
+| Device                     | Version | Language         | Filename                                          | MD5 Checksum                       |
+| -------------------------- | ------- | ---------------- | ------------------------------------------------- | ---------------------------------- |
+| Psion Series 3a (1MB)      | 3.22f   | English          | [s3a_v3.22f_eng.bin](Series3a/s3a_v3.22f_eng.bin) | `782048b4bdca628b01a7f853b6ec4c70` |
+| Acorn Pocket Book II (1MB) | 1.30f   | English          | [pb2_v1.30f_acn.bin](Series3a/pb2_v1.30f_acn.bin) | `e8eb24cba162fef331519b7c55136537` |
+| Psion Series 3a (2MB)      | 3.40f   | English          | [s3a_v3.40f_eng.bin](Series3a/s3a_v3.40f_eng.bin) | `cfcd7be36fad529405d3abd48294af31` |
+| Psion Series 3a (2MB)      | 3.40f   | Italian          | [s3a_v3.40f_ita.bin](Series3a/s3a_v3.40f_ita.bin) | `8f9e750bb628c6f3c3189b50475215a5` |
+| Psion Series 3a (2MB)      | 3.40f   | American English | [s3a_v3.40f_usa.bin](Series3a/s3a_v3.40f_usa.bin) | `a6264f08982608391843a7f331b6404b` |
+| Psion Series 3a (2MB)      | 3.41f   | German           | [s3a_v3.41f_deu.bin](Series3a/s3a_v3.41f_deu.bin) | `45c8db03c357e5784158f966c5de7018` |
+| Psion Series 3a (2MB)      | 3.43f   | Russian          | [s3a_v3.43f_rus.bin](Series3a/s3a_v3.43f_rus.bin) | `4ebca4c28c3cc5317206e4103a1b702a` |
+
+## Psion Siena
+
+| Device      | Version | Language | Filename                                 | MD5 Checksum                       |
+| ----------- | ------- | -------- | ---------------------------------------- | ---------------------------------- |
+| Psion Siena | 4.20f   | English  | [vine_v4.20f.bin](Siena/vine_v4.20f.bin) | `242e80fdbf9b353a05f6ff4d1db1c769` |
 
