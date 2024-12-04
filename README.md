@@ -42,3 +42,11 @@ Contents:
 | Device          | EPOC16 Version | ROM  Version | Language | Filename                                          | MD5 Checksum                       |
 | --------------- | -------------- | ------------ | -------- | ------------------------------------------------- | ---------------------------------- |
 | Psion Series 3c | 3.91f          | 5.20f        | English  | [oak_v5.20f_eng.bin](Series3c/oak_v5.20f_eng.bin) | `3c1a079f53c00916e8d0dc11b35a0390` |
+
+## Psion Series 3mx
+
+| Device           | EPOC16 Version | ROM  Version | Language | Filename                                               | MD5 Checksum                       |
+| ---------------- | -------------- | ------------ | -------- | ------------------------------------------------------ | ---------------------------------- |
+| Psion Series 3mx | 4.08f          | 6.16f        | English  | [maple_v6.16f_uk.bin](Series3mx/maple_v6.16f_uk.bin)   | `64572cc3522447179d1e6f3b8fb45360` |
+| Psion Series 3mx |                | 6.20f        | French   | [maple_v6.20f_fre.bin](Series3mx/maple_v6.20f_fre.bin) | `1b367e2fb862545cf420ff74a7f85ea7` |
+
