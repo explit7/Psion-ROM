@@ -7,6 +7,7 @@ Contents:
 - [Psion Series 3a and variants](#psion-series-3a-and-variants)
 - [Psion Siena](#psion-siena)
 - [Psion Series 3c](#psion-series-3c)
+- [Psion Series 3mx](#psion-series-3mx)
 - ROMs for Psion 5mx Pro, patched with 2 Additional Apps from Ericsson MC218 (MyPhone + PostCard) ([UK](5mxPro/UK/), [DE](5mxPro/DE/))
 - Original ROM for Psion 5mx Pro ([DE](5mxPro/DE_orig/))
 - ROMs for Psion netBook, patched with additional Apps and components([UK](netBook/UK/), [DE](netBook/DE), [FR](netBook/FR/), [SP](netBook/SP/))
