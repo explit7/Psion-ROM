@@ -5,8 +5,8 @@ Some of this ROM files are upgraded (patched) to solve some bugs or add function
 Contents:
 
 - [Psion Series 3a and variants](#psion-series-3a-and-variants)
-- [Psion Series 3c](#psion-series-3c)
 - [Psion Siena](#psion-siena)
+- [Psion Series 3c](#psion-series-3c)
 - ROMs for Psion 5mx Pro, patched with 2 Additional Apps from Ericsson MC218 (MyPhone + PostCard) ([UK](5mxPro/UK/), [DE](5mxPro/DE/))
 - Original ROM for Psion 5mx Pro ([DE](5mxPro/DE_orig/))
 - ROMs for Psion netBook, patched with additional Apps and components([UK](netBook/UK/), [DE](netBook/DE), [FR](netBook/FR/), [SP](netBook/SP/))
@@ -31,14 +31,14 @@ Contents:
 | Psion Series 3a (2MB)      | 3.55f          | 3.41f       | German           | [s3a_v3.41f_deu.bin](Series3a/s3a_v3.41f_deu.bin) | `45c8db03c357e5784158f966c5de7018` |
 | Psion Series 3a (2MB)      |                | 3.43f       | Russian          | [s3a_v3.43f_rus.bin](Series3a/s3a_v3.43f_rus.bin) | `4ebca4c28c3cc5317206e4103a1b702a` |
 
-## Psion Series 3c
-
-| Device          | EPOC16 Version | ROM  Version | Language | Filename                                          | MD5 Checksum                       |
-| --------------- | -------------- | ------------ | -------- | ------------------------------------------------- | ---------------------------------- |
-| Psion Series 3c | 3.19f          | 5.20f        | English  | [oak_v5.20f_eng.bin](Series3c/oak_v5.20f_eng.bin) | `3c1a079f53c00916e8d0dc11b35a0390` |
-
 ## Psion Siena
 
 | Device      | EPOC16 Version | ROM Version | Language | Filename                                 | MD5 Checksum                       |
 | ----------- | -------------- | ----------- | -------- | ---------------------------------------- | ---------------------------------- |
 | Psion Siena | 3.70f          | 4.20f       | English  | [vine_v4.20f.bin](Siena/vine_v4.20f.bin) | `242e80fdbf9b353a05f6ff4d1db1c769` |
+
+## Psion Series 3c
+
+| Device          | EPOC16 Version | ROM  Version | Language | Filename                                          | MD5 Checksum                       |
+| --------------- | -------------- | ------------ | -------- | ------------------------------------------------- | ---------------------------------- |
+| Psion Series 3c | 3.91f          | 5.20f        | English  | [oak_v5.20f_eng.bin](Series3c/oak_v5.20f_eng.bin) | `3c1a079f53c00916e8d0dc11b35a0390` |
