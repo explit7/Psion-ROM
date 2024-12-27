@@ -10,7 +10,7 @@ Contents:
 - [Psion Series 3mx](#psion-series-3mx)
 - [Psion Workabout](#psion-workabout)
 - [Psion Workabout MX](#psion-workabout-mx)
-- ROMs for Psion 5mx Pro, patched with 2 Additional Apps from Ericsson MC218 (MyPhone + PostCard) ([UK](5mxPro/UK/), [DE](5mxPro/DE/))
+- ROMs for Psion 5mx Pro, patched with additional App (MyPhone), Ericsson ringtone and logo from Ericsson MC218 ([UK](5mxPro/UK/), [DE](5mxPro/DE/))
 - Original ROM for Psion 5mx Pro ([DE](5mxPro/DE_orig/))
 - Dumped ROMs of Ericcson MC218 ([UK](MC218/UK/), [DE](MC218/DE/))
 - [Psion Series 7](#psion-series-7)
