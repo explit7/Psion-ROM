@@ -13,7 +13,7 @@ Contents:
 - ROMs for Psion 5mx Pro, patched with additional App (MyPhone), Ericsson ringtone and logo from Ericsson MC218 ([UK](5mxPro/UK/), [DE](5mxPro/DE/))
 - Original ROM for Psion 5mx Pro ([DE](5mxPro/DE_orig/))
 - Dumped ROMs of Ericcson MC218 ([UK](MC218/UK/), [DE](MC218/DE/))
-- [Psion Series 7](#psion-series-7)
+- [Psion Series 7 / netBook](#psion-series-7)
   - ROM Update for Series 7 / netBook ([UK](Series7/Updates/UK/), [US](Series7/Updates/US/))
 
 - ROMs for Psion netBook, patched with additional Apps and components([UK](netBook/UK/), [DE](netBook/DE), [FR](netBook/FR/), [SP](netBook/SP/))
