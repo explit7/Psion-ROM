@@ -14,7 +14,7 @@ Contents:
 - Original ROM for Psion 5mx Pro ([DE](5mxPro/DE_orig/))
 - Dumped ROMs of Ericcson MC218 ([UK](MC218/UK/), [DE](MC218/DE/))
 - [Psion Series 7](#psion-series-7)
-  - ROM Update for Series 7 ([UK](Series7/Updates/UK/), [US](Series7/Updates/US/))
+  - ROM Update for Series 7 / netBook ([UK](Series7/Updates/UK/), [US](Series7/Updates/US/))
 
 - ROMs for Psion netBook, patched with additional Apps and components([UK](netBook/UK/), [DE](netBook/DE), [FR](netBook/FR/), [SP](netBook/SP/))
 - Revo Firmware Dump ([DE](Revo/DE/))
@@ -69,9 +69,9 @@ Contents:
 | ------------------ | -------------- | ------------ | -------- | ---------------------------------------------- | ---------------------------------- |
 | Psion Workabout MX | 4.31f          | 7.20f        | English  | [w2mx_v7.20f.bin](WorkaboutMX/w2mx_v7.20f.bin) | `d5e5c2aa32f9888e7fec8d2214f1547e` |
 
-## Psion Series 7
+## Psion Series 7 / netBook
 
 | Device         | EPOC32 Version | ROM  Version           | Language | Filename                                                     | MD5 Checksum                       |
 | -------------- | -------------- | ---------------------- | -------- | ------------------------------------------------------------ | ---------------------------------- |
-| Psion Series 7 |                | 1.05 (254) (Build 754) | English  | [series7_1.05_254_build_756.bin](Series7/series7_1.05_254_build_756.bin) | `c78c3cf48d2fd7b8f0d5bc9cadd79159` |
+| Psion Series 7 / netBook        | 1.05 (254) (Build 754) | English  | [series7_1.05_254_build_756.bin](Series7/series7_1.05_254_build_756.bin) | `c78c3cf48d2fd7b8f0d5bc9cadd79159` |
 
